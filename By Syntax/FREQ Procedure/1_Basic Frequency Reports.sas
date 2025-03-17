@@ -27,4 +27,4 @@ title "Frequency Counts for Combination of TYPE and ORIGIN";
 proc freq data=sashelp.cars;    
     tables type*origin;         /*3*/
 run;
-title;
+title; 
