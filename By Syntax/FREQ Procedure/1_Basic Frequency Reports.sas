@@ -28,5 +28,3 @@ proc freq data=sashelp.cars;
     tables type*origin;         /*3*/
 run;
 title;
-
-/* END */
